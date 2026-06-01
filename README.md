@@ -6,3 +6,7 @@ https://colab.research.google.com/drive/1Wy0ehY9rXeFKEOX2nJOfXFFbpiTVmZEN?usp=sh
 
 ## 🌸Iris Flower Classification:
 https://colab.research.google.com/drive/1a_FoVuxn2-No18ybz1FbdWpOeCLuwzAR?usp=sharing
+
+## 💹Sales Prediction:
+https://colab.research.google.com/drive/1ChewEfFYhb06ZfinF-dSKABoX7bzU37R?usp=sharing
+
